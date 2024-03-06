@@ -1,0 +1,10 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<h1>Names of the candidates are:</h1>
+<ul>
+@foreach (string a in ViewBag.Persons)
+{
+    <li>@a</li>
+}
+</ul>
