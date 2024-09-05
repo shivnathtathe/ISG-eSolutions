@@ -11,7 +11,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 ### Prerequisites
 
-- [![Poetry](https://img.shields.io/badge/Download-Poetry-blue)(https://python-poetry.org/docs/#installation)]: A tool for dependency management and packaging in Python.
+- [![Poetry](https://img.shields.io/badge/Download-Poetry-blue)](https://python-poetry.org/docs/#installation): A tool for dependency management and packaging in Python.
 
 ### Installing poetry using CLI:
    - `Invoke-WebRequest -Uri https://install.python-poetry.org -OutFile install-poetry.py`
