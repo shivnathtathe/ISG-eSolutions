@@ -10,6 +10,7 @@ A weather forecasting API powered by OpenAI's Generative AI LLM and Retrieval-Au
 ![Author Badge](https://img.shields.io/badge/Author-Shivnath@ISG-blue)
 
 ## Getting Started
+
 > Follow these instructions to set up and run the project on your local machine.
 
 ### Prerequisites
@@ -41,10 +42,10 @@ A weather forecasting API powered by OpenAI's Generative AI LLM and Retrieval-Au
 
 ### If it doesn't find poetry installed:
 
-go to directory where we used command 
+> go to directory where we used command 
  - `Invoke-WebRequest -Uri https://install.python-poetry.org -OutFile install-poetry.py`
 
-and run following command:
+> and run following command:
  - `python install-poetry.py`
 
 ### Installation
