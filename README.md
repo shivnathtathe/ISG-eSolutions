@@ -3,8 +3,8 @@
 A weather forecasting API powered by OpenAI's Generative AI LLM and Retrieval-Augmented Generation (RAG) for accurate and intelligent weather predictions.
 
 ![API](https://shorturl.at/3I4Za)
-[![Author Badge](https://img.shields.io/badge/Author-Shivnath_Tathe-red)](https://example.com)
 
+[![Author Badge](https://img.shields.io/badge/Author-Shivnath_Tathe-red)]
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ## Getting Started
 Follow these instructions to set up and run the project on your local machine.
