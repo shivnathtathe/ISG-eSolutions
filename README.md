@@ -14,10 +14,10 @@ Follow these instructions to set up and run the project on your local machine.
 ### Installing poetry using CLI:
 `Invoke-WebRequest -Uri https://install.python-poetry.org -OutFile install-poetry.py`
 
-### ** Save poetry to path: ** 
+1. ** Save poetry to path: ** 
 
 `$env:Path += ";C:\Users\<Your user name>\AppData\Roaming\Python\Scripts" `
-#### Add poetry to path:
+2. ** Add poetry to path: **
 
 
 Add the Path to Environment Variables:
