@@ -53,7 +53,8 @@ and run following command:
    cd Weather Forecast API
 ### Create and activate the virtual environment:
 
-```poetry install
+```
+poetry install
 poetry shell
 ```
 
