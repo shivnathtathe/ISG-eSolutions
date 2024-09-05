@@ -2,10 +2,10 @@
 
 A weather forecasting API powered by OpenAI's Generative AI LLM and Retrieval-Augmented Generation (RAG) for accurate and intelligent weather predictions.
 
-## Getting Started
 
 ![API](https://shorturl.at/3I4Za)
 
+## Getting Started
 Follow these instructions to set up and run the project on your local machine.
 
 ### Prerequisites
