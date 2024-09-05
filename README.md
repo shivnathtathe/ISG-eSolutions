@@ -50,8 +50,8 @@ and run following command:
 
 2. **Set Up the Environment:**
    Navigate to the project directory:
-   ```bash
-   cd Weather Forecast API
+   
+   `cd Weather Forecast API`
 ### Create and activate the virtual environment:
 
 ```
