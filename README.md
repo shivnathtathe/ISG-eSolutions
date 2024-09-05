@@ -15,7 +15,7 @@ Follow these instructions to set up and run the project on your local machine.
    - `Invoke-WebRequest -Uri https://install.python-poetry.org -OutFile install-poetry.py`
 
 1. **Save poetry to path:** 
-   <h1> Hello</h1>
+   
    - `$env:Path += ";C:\Users\<Your user name>\AppData\Roaming\Python\Scripts" `
 2. **Add poetry to path:**
 
