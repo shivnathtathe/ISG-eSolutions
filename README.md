@@ -10,7 +10,7 @@ A weather forecasting API powered by OpenAI's Generative AI LLM and Retrieval-Au
 ![Author Badge](https://img.shields.io/badge/Author-Shivnath@ISG-blue)
 
 ## Getting Started
-Follow these instructions to set up and run the project on your local machine.
+> Follow these instructions to set up and run the project on your local machine.
 
 ### Prerequisites
 
