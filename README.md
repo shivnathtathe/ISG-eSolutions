@@ -4,6 +4,8 @@ A weather forecasting API powered by OpenAI's Generative AI LLM and Retrieval-Au
 
 ## Getting Started
 
+![API](https://shorturl.at/3I4Za)
+
 Follow these instructions to set up and run the project on your local machine.
 
 ### Prerequisites
