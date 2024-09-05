@@ -64,4 +64,4 @@ poetry shell
 ```
 uvicorn ForecastAPI:app --reload
 ```
-<span style="color">Author: Shivnath Tathe</span>
+<span style="color:red">Author: Shivnath Tathe</span>
