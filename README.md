@@ -15,7 +15,7 @@ Follow these instructions to set up and run the project on your local machine.
 
 ### ** Save poetry to path: ** 
 
-```$env:Path += ";C:\Users\<Your user name>\AppData\Roaming\Python\Scripts" ```
+`$env:Path += ";C:\Users\<Your user name>\AppData\Roaming\Python\Scripts" `
 #### Add poetry to path:
 
 
